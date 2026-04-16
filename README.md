@@ -1,3 +1,4 @@
+
 # Music Salon Management System
 
 ## Description
@@ -27,4 +28,4 @@
 * **[Черепковский Виталий] (Team Lead)** — Проектирование архитектуры БД, настройка CI/CD (GitHub Actions), реализация логики работы с BLOB и сложными SQL-запросами.
 * **[Стельченко Прохор] (Developer)** — Разработка консольного интерфейса, реализация CRUD-операций и модульное тестирование.
 
-Второй репозиторий](https://github.com/CheVitel/tpmp-lab4-repo2)
+[Второй репозиторий](https://github.com/CheVitel/tpmp-lab4-repo2)
